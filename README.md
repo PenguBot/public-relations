@@ -5,7 +5,7 @@ This repository is used for taking user inputs like suggestions, bug reports, et
 Create a new [Issue](https://github.com/PenguBot/public-relations/issues) and select the appropriate tags related to your input and write a detailed description in the proper format.
 
 ## Rules
-- Check for existing issues before creating a new one. We'll close duplicated issues immdiately.
+- Check for existing issues before creating a new one. We'll close duplicated issues immediately.
 - Make sure to use proper format for your issues.
 - In case of bug reports, make sure to include your guild id, screenshots and a way of duplication.
 
